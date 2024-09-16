@@ -209,3 +209,5 @@ kanban.Columns.Add(doneColumn);
 
 This is how the final output will look like.
 
+<img width="716" alt="Kanban_getting_started" src="https://github.com/user-attachments/assets/6046fbe9-c429-4474-812d-fa53180344b5">
+
